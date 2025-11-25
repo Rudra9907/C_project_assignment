@@ -1,4 +1,16 @@
+//the things written in {} are written by me and the rest () by you
 
-ihello
+=========================================================================
 
 
+{student directory}
+
+{we will create a project which will}
+
+()
+
+{questions 
+we should at least make 7 or more functions
+we should use switch case
+
+now, tell the structure share your vision}
